@@ -45,3 +45,4 @@ A 3D Rendering of the Louisville, CO Sweet Cow Ice Cream shop
 - Code I wrote: finalproject.c
 - Texture .bmp files located in texture bmps folder
 - Other code provided by Willem A. (Vlakkies) Schreuder through various example codes in class.
+- Screenshot and demos named final-screenshot.png and final-demo.gif
