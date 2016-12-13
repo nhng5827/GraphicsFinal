@@ -6,31 +6,18 @@ Help code provided by Willem A. (Vlakkies) Schreuder
 Time this took: 75+ hours
 A 3D Rendering of the Louisville, CO Sweet Cow Ice Cream shop
 
-Important keys (full key bindings towards bottom):
+How to Run: 
+- Clone repository
+- [Installation instructions for Linux/Windows](http://www.prinmath.com/csci5229/misc/install.html)
+- Once Installed, run 'make' in the repository in the command line.
+- Run ./final
+
+Important keys (full key bindings below):
 -'o' or 'O' opens the door to the shop
 -You can hit 'b' or 'B' at any time to jump to the freezer where buckets of
 ice cream are stored.
 - ' ' (spacebar) toggles shadows on and off.
 - a,s,w,d for first person movement
-
-Important notes:
-1. This is a project I'm extremely proud of. My friends, family, co-workers,
-and boss are all very impressed.
-2. Something that took me a very long time was the cake freezer, straight ahead
-in first person view towards the back wall.
-3. Shadows also took me a very long time. I have chosen to keep the light
-movement in the NULL position.
-4. I have a cylinder with an angled slice cut out of it on the handrail also
-straight ahead from the door. I have a quarter cylinder on the dip cabinets (the
-white cubes with the silver tops). I did a lot of edits to the original cylinder
-and cube functions to allow for different textures in different places. There
-are numerous cases with needing only one side textured vs all sides.
-5. The scene starts off in first person mode. Hitting 'f' sends you to
-perspective mode, and m can put you in orthogonal mode.
-6. The seemingly random hallway is supposed to be there, it connects to a
-restaurant in the real shop.
-7. I unfortunately ran out of time, but I would've liked to add shelves and
-photos to some of the wall to emulate the shop.
 
 Key bindings:
 * 0          Reset view angle
