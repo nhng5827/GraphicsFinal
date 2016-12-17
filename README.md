@@ -1,8 +1,6 @@
-Final Project
+#Final Project
 
-Nhi Nguyen
-
-CSCI 4229
+##Nhi Nguyen-CSCI 4229
 
 Help code provided by Willem A. (Vlakkies) Schreuder
 
@@ -10,13 +8,13 @@ Time this took: 75+ hours
 
 A 3D Rendering of the Louisville, CO Sweet Cow Ice Cream shop
 
-How to Run: 
+###How to Run: 
 - Clone repository
 - [Installation instructions for Linux/Windows](http://www.prinmath.com/csci5229/misc/install.html); no installation for Mac     OSx needed
 - Once Installed, run 'make' in the repository in the command line.
 - Run ./final
 
-Important keys (full key bindings below):
+###Important keys (full key bindings below):
 ```
 * 'o' or 'O' opens the door to the shop
 * You can hit 'b' or 'B' at any time to jump to the freezer where buckets of
@@ -25,7 +23,7 @@ Important keys (full key bindings below):
 * a,s,w,d for first person movement
 ```
 
-Key bindings:
+###Key bindings:
 ```
 * 0          Reset view angle
 * o or O     Open front door
@@ -43,3 +41,8 @@ Key bindings:
 * b or B     Jump to view ice cream freezer
 * ESC        Exit
 ```
+##Repository Organization
+- Code I wrote: finalproject.c
+- Texture .bmp files located in texture bmps folder
+- Other code provided by Willem A. (Vlakkies) Schreuder through various example codes in class.
+- Screenshot and demos named final-screenshot.png and final-demo.gif
